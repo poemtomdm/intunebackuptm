@@ -1,0 +1,12 @@
+{
+    "value":  [
+                  "{\r\n    \"description\":  null,\r\n    \"displayName\":  \"ADMIN0-AllMACOS-restore-20-12-2023-23-25-55\",\r\n    \"groupTypes\":  [\r\n                       \"DynamicMembership\"\r\n                   ],\r\n    \"mailEnabled\":  false,\r\n    \"mailNickname\":  \"deb56a87-c\",\r\n    \"securityEnabled\":  true,\r\n    \"isAssignableToRole\":  null,\r\n    \"membershipRule\":  \"(device.deviceOSType -startsWith \\\"mac\\\")\",\r\n    \"membershipRuleProcessingState\":  \"On\"\r\n}",
+                  "https://graph.microsoft.com/beta/groups",
+                  "ADMIN0-AllMACOS",
+                  [
+                      "6d20e2fa-1d60-4940-8f19-78daccc5044e"
+                  ],
+                  "No Available Assignment"
+              ],
+    "Count":  5
+}
