@@ -1,0 +1,12 @@
+{
+    "value":  [
+                  "{\r\n    \"description\":  null,\r\n    \"displayName\":  \"AZ-GRP-USR-ADM15-restore-21-12-2023-09-42-36\",\r\n    \"groupTypes\":  [\r\n\r\n                   ],\r\n    \"mailEnabled\":  false,\r\n    \"mailNickname\":  \"NotSet\",\r\n    \"securityEnabled\":  true,\r\n    \"isAssignableToRole\":  null,\r\n    \"membershipRule\":  null,\r\n    \"membershipRuleProcessingState\":  null\r\n}",
+                  "https://graph.microsoft.com/beta/groups",
+                  "AZ-GRP-USR-ADM15",
+                  [
+                      "17773983-0f0f-4703-aad4-a928eddc316f"
+                  ],
+                  "No Available Assignment"
+              ],
+    "Count":  5
+}
